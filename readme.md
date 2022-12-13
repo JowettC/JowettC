@@ -6,6 +6,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jowettc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![JowettC's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=jowettc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
