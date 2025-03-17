@@ -34,11 +34,6 @@ I'm a passionate software engineer with a love for building scalable application
 - AI workloads 
 
 ---
-
-### 📈 My GitHub Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jowettc&theme=tokyonight)
-
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jowettc&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
