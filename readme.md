@@ -3,7 +3,7 @@
 ## 💻 Software Engineer | 🌏 Singapore
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jowettc&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jowett-chng)
 
 I'm a passionate software engineer with a love for building scalable applications and exploring new technologies.
 
